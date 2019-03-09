@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "968727900541",
+    "firebase_url": "https://fir-application-b13c9.firebaseio.com",
+    "project_id": "fir-application-b13c9",
+    "storage_bucket": "fir-application-b13c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968727900541:android:9ba962df3b5fd09e",
+        "android_client_info": {
+          "package_name": "com.example.humberto.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968727900541-d286socjdrv0q7keh1fb9evjlkd4cvlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.humberto.firebaseapplication",
+            "certificate_hash": "fc0b7f0d620c6ed4b8353a96fc192d39b9340795"
+          }
+        },
+        {
+          "client_id": "968727900541-68jerppr9kp084ka06cqfdikcv24lb80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAT1oy_6mhYvyzHAixjB9VOkqOPj71M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968727900541-68jerppr9kp084ka06cqfdikcv24lb80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
